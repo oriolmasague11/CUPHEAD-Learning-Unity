@@ -1,10 +1,10 @@
-# 🎮 Cuphead 2D – Unity Project
+# Cuphead 2D – Unity Project
 
 This project is a **2D Unity recreation inspired by *Cuphead***. It includes the **tutorial level** and a **custom first level**, created to practice Unity 2D development and explore how the original game mechanics could be implemented in Unity (the engine used for *Cuphead* itself).
 
 ---
 
-## 📌 Project Purpose
+## Project Purpose
 
 The main goals of this project are:
 
@@ -14,7 +14,7 @@ The main goals of this project are:
 
 ---
 
-## 🕹️ Gameplay & Controls
+## Gameplay & Controls
 
 The player controls a character with movement and shooting mechanics inspired by *Cuphead*.
 
@@ -36,7 +36,7 @@ The player controls a character with movement and shooting mechanics inspired by
 
 ---
 
-## 🧩 Project Features
+## Project Features
 
 ✔️ Player movement system  
 ✔️ Direction-based shooting  
@@ -48,7 +48,7 @@ The player controls a character with movement and shooting mechanics inspired by
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Unity (2D workflow)**
 - **C#** for scripting
@@ -57,7 +57,7 @@ The player controls a character with movement and shooting mechanics inspired by
 
 ---
 
-## 🚀 How to Play
+## How to Play
 
 1. Clone the repository:
    ```bash
@@ -68,7 +68,7 @@ The player controls a character with movement and shooting mechanics inspired by
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 *(Screenshots have to be added)*
 
 ---
