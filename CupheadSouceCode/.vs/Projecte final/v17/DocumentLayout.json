@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ORIOL\\Projecte final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6727E70-5EA7-F2DD-FDCB-42EA1E8EBD0F}|Assembly-CSharp.csproj|c:\\users\\oriol\\projecte final\\assets\\pixel adventure 1\\assets\\scripts\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6727E70-5EA7-F2DD-FDCB-42EA1E8EBD0F}|Assembly-CSharp.csproj|solutionrelative:assets\\pixel adventure 1\\assets\\scripts\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6727E70-5EA7-F2DD-FDCB-42EA1E8EBD0F}|Assembly-CSharp.csproj|c:\\users\\oriol\\projecte final\\assets\\cuphead\\scripts\\coinscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6727E70-5EA7-F2DD-FDCB-42EA1E8EBD0F}|Assembly-CSharp.csproj|solutionrelative:assets\\cuphead\\scripts\\coinscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6727E70-5EA7-F2DD-FDCB-42EA1E8EBD0F}|Assembly-CSharp.csproj|C:\\Users\\ORIOL\\Projecte final\\assets\\cuphead\\scripts\\cupheadscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6727E70-5EA7-F2DD-FDCB-42EA1E8EBD0F}|Assembly-CSharp.csproj|solutionrelative:assets\\cuphead\\scripts\\cupheadscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6727E70-5EA7-F2DD-FDCB-42EA1E8EBD0F}|Assembly-CSharp.csproj|c:\\users\\oriol\\projecte final\\assets\\pixel adventure 1\\assets\\scripts\\frogscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6727E70-5EA7-F2DD-FDCB-42EA1E8EBD0F}|Assembly-CSharp.csproj|solutionrelative:assets\\pixel adventure 1\\assets\\scripts\\frogscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6727E70-5EA7-F2DD-FDCB-42EA1E8EBD0F}|Assembly-CSharp.csproj|C:\\Users\\ORIOL\\Projecte final\\assets\\scrips\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6727E70-5EA7-F2DD-FDCB-42EA1E8EBD0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoinScript.cs",
+              "DocumentMoniker": "C:\\Users\\ORIOL\\Projecte final\\Assets\\CUPHEAD\\Scripts\\CoinScript.cs",
+              "RelativeDocumentMoniker": "Assets\\CUPHEAD\\Scripts\\CoinScript.cs",
+              "ToolTip": "C:\\Users\\ORIOL\\Projecte final\\Assets\\CUPHEAD\\Scripts\\CoinScript.cs",
+              "RelativeToolTip": "Assets\\CUPHEAD\\Scripts\\CoinScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:23:03.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Apple.cs",
+              "DocumentMoniker": "C:\\Users\\ORIOL\\Projecte final\\Assets\\Pixel Adventure 1\\Assets\\Scripts\\Apple.cs",
+              "RelativeDocumentMoniker": "Assets\\Pixel Adventure 1\\Assets\\Scripts\\Apple.cs",
+              "ToolTip": "C:\\Users\\ORIOL\\Projecte final\\Assets\\Pixel Adventure 1\\Assets\\Scripts\\Apple.cs",
+              "RelativeToolTip": "Assets\\Pixel Adventure 1\\Assets\\Scripts\\Apple.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:14:04.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrogScript.cs",
+              "DocumentMoniker": "C:\\Users\\ORIOL\\Projecte final\\Assets\\Pixel Adventure 1\\Assets\\Scripts\\FrogScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Pixel Adventure 1\\Assets\\Scripts\\FrogScript.cs",
+              "ToolTip": "C:\\Users\\ORIOL\\Projecte final\\Assets\\Pixel Adventure 1\\Assets\\Scripts\\FrogScript.cs",
+              "RelativeToolTip": "Assets\\Pixel Adventure 1\\Assets\\Scripts\\FrogScript.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T09:45:10.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerScript.cs",
+              "DocumentMoniker": "C:\\Users\\ORIOL\\Projecte final\\Assets\\Scrips\\PlayerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\PlayerScript.cs",
+              "ToolTip": "C:\\Users\\ORIOL\\Projecte final\\Assets\\Scrips\\PlayerScript.cs",
+              "RelativeToolTip": "Assets\\Scrips\\PlayerScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:59:35.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CupheadScript.cs",
+              "DocumentMoniker": "C:\\Users\\ORIOL\\Projecte final\\Assets\\CUPHEAD\\Scripts\\CupheadScript.cs",
+              "RelativeDocumentMoniker": "Assets\\CUPHEAD\\Scripts\\CupheadScript.cs",
+              "ToolTip": "C:\\Users\\ORIOL\\Projecte final\\Assets\\CUPHEAD\\Scripts\\CupheadScript.cs",
+              "RelativeToolTip": "Assets\\CUPHEAD\\Scripts\\CupheadScript.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAUwEwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:38:15.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
