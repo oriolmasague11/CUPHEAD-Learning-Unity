@@ -66,3 +66,15 @@ The player controls a character with movement and shooting mechanics inspired by
 3. Run the main scene (e.g., MainScene, Tutorial, etc.).
 4. Enjoy!
 
+---
+
+## 🖼️ Screenshots
+*(Screenshots have to be added)*
+
+---
+
+## 🤝 Credits
+
+Developed by **Oriol Masagué Sans**.  
+Pixel art, design, and programming included in this repository.
+
